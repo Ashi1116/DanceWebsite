@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Big+Shoulders+Stencil+Display:wght@300;600&family=Kirang+Haerang&family=PT+Sans+Narrow&display=swap'); 
+
+h1{
+    text-align: center;
+    margin: 12px;
+    font-family: 'Acme', sans-serif;
+}
+
+.myInput{
+    display: block;
+    margin: 10px;
+    padding: 8px;
+    font-family: 'Acme', sans-serif;
+    font-size: 15px;
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+}
+.myForm{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+font-family: 'Acme', sans-serif;
+}
+.Btn{
+ color: #fff;
+    width: 100px;
+    height: 25px;
+    font-family: 'Acme', sans-serif;
+    font-size: 16px;
+     cursor: pointer;
+    background-color: brown;
+    border-radius: 8px;
+}
